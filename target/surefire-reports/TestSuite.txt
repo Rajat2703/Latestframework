@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 24.737 s <<< FAILURE! - in TestSuite
+Acedemy.logintest.login[tombarnes@commonareas.work.dev, 1234567Aa, Restricted user](1)  Time elapsed: 11.252 s  <<< FAILURE!
+java.lang.AssertionError: expected [Common Areas] but found [LOGIN]
+	at Acedemy.logintest.login(logintest.java:44)
+
