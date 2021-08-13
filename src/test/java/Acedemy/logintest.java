@@ -24,7 +24,7 @@ public class logintest extends Base {
 		                             //listener extent report are part of interface hence we used implement
 		                             //if static is used for variable then one original copy will be shared we cant
 		                              //make driver static especially in parllel execution as
-		                             //static advantage is it does allocation only once
+		                             //static advantage is it does allocation only 
 
 	}
 
