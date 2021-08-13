@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-08-12T11:29:49 IST" name="Default suite" finished-at="2021-08-12T11:30:06 IST" duration-ms="16896">
+  <suite started-at="2021-08-13T10:41:30 IST" name="Suite" finished-at="2021-08-13T10:42:45 IST" duration-ms="74544">
     <groups>
     </groups>
-    <test started-at="2021-08-12T11:29:49 IST" name="Default test" finished-at="2021-08-12T11:30:06 IST" duration-ms="16896">
+    <test started-at="2021-08-13T10:41:30 IST" name="Test" finished-at="2021-08-13T10:42:45 IST" duration-ms="74544">
       <class name="Acedemy.logintest">
-        <test-method is-config="true" signature="initialize()[pri:0, instance:Acedemy.logintest@2974f221]" started-at="2021-08-12T11:29:49 IST" name="initialize" finished-at="2021-08-12T11:29:52 IST" duration-ms="3344" status="PASS">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Acedemy.logintest@3670f00]" started-at="2021-08-13T10:41:30 IST" name="initialize" finished-at="2021-08-13T10:41:33 IST" duration-ms="2328" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Acedemy.logintest@2974f221]" started-at="2021-08-12T11:29:52 IST" name="login" data-provider="getdata" finished-at="2021-08-12T11:30:05 IST" duration-ms="12860" status="PASS">
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Acedemy.logintest@3670f00]" started-at="2021-08-13T10:41:33 IST" name="login" data-provider="getdata" finished-at="2021-08-13T10:42:41 IST" duration-ms="67859" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -32,11 +32,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Acedemy.logintest@2974f221]" started-at="2021-08-12T11:30:05 IST" name="teardown" finished-at="2021-08-12T11:30:06 IST" duration-ms="595" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Acedemy.logintest@3670f00]" started-at="2021-08-13T10:42:41 IST" name="teardown" finished-at="2021-08-13T10:42:45 IST" duration-ms="4281" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- Acedemy.logintest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
